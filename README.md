@@ -23,16 +23,13 @@ demo2@test.com    password123 <br>
 <h3 align='center'>Home Page 🏡</h3>
 <div align='center'><img src='frontend/src/images/presentation/homepage.png'/></div>
 <br>
-<br>
 <h3 align='center'>Register page 📝</h3>
 <br>
 <div align='center'><img src='frontend/src/images/presentation/register.png'/></div>
 <br>
-<br>
 <h3 align='center'>Dashboard page 📊</h3>
 <br>
 <div align='center'><img src='frontend/src/images/presentation/dashboard.png'/></div>
-<br>
 <br>
 <h3 align='center'>Profile page 👩🏻‍💻</h3>
 <br>
