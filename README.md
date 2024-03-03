@@ -10,7 +10,7 @@ demo@test.com     password123 <br>
 demo2@test.com    password123 <br>
 *If someone has changed the passwords of demo test accounts (xd), you can create a new account.*
 
-**Build with:**
+**Built with:**
 
 » React JS <br>
 » CSS <br>
